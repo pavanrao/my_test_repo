@@ -4,3 +4,5 @@ commit A
 
 
 commit C - removed commit B
+
+commit D
