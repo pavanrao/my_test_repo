@@ -2,4 +2,7 @@
 
 commit A
 
-commit B
+
+commit C - removed commit B
+
+commit D
